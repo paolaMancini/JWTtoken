@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/paolaMancini/guestissuer.git"
+        "url": "git+https://github.com/paolaMancini/JWTtoken"
     },
     "author": "Paola Mancini",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/paolaMancini/guestissuer/issues"
+        "url": "https://github.com/paolaMancini/JWTtoken"
     },
-    "homepage": "https://github.com/paolaMancini/guestissuer#readme",
+    "homepage": "https://github.com/paolaMancini/JWTtoken",
     "dependencies": {
         "base64url": "^2.0.0",
         "jsonwebtoken": "^8.2.0",
