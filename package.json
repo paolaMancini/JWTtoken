@@ -1,5 +1,5 @@
 {
-    "name": "guestissuer",
+    "name": "JWTtoken",
     "version": "1.0.0",
     "description": "JWT Token creation for guest issuer package",
     "main": "index.js",
