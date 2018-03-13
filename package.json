@@ -1,0 +1,24 @@
+{
+    "name": "guestissuer",
+    "version": "1.0.0",
+    "description": "JWT Token creation for guest issuer package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paolaMancini/guestissuer.git"
+    },
+    "author": "Paola Mancini",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/paolaMancini/guestissuer/issues"
+    },
+    "homepage": "https://github.com/paolaMancini/guestissuer#readme",
+    "dependencies": {
+        "base64url": "^2.0.0",
+        "jsonwebtoken": "^8.2.0",
+        "node-env-file": "^0.1.8"
+    }
+}
