@@ -45,12 +45,6 @@ if (!process.env.timestamp) {
 //iss	The issuer of the token. Use the Guest Issuer ID provided in My Apps. This claim is required.
 //exp	The expiration time of the token, as a UNIX timestamp in seconds. Use the lowest practical 
 //value for the use of the token. This claim is required.
-var payload = {
-    "sub": "User-1",
-    "name": "Licia",
-    "iss": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mMzM4NzVkYS03NDc0LTQ4MzAtYWQxYi0xNWQ0NTNmYzhhN2U",
-    "exp": "1511286849"
-}
 
 
 // Create the signature, the encoded header and payload, along with the secret (provided when the app is created).
